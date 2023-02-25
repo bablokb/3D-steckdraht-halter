@@ -19,7 +19,7 @@ gap = 0.2;                 // gap pcb to case
 
 d1 = 16.3 + 0.3;           // Durchmesser 1cent + Spiel
 d2 = d1 + 4*w4;            // Durchmesser Basis
-d3 = 1.5;                  // Durchmesser Steckdraht
+d3 = 1.6;                  // Durchmesser Steckdraht
 d4 = d3 + 2*w4;            // Durchmesser Halter
 
 b  = 0.6;                  // Höhe Basis/Top
